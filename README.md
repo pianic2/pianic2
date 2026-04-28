@@ -41,19 +41,19 @@ Full stack application for task management with server-rendered UI.
 
 ---
 
-### Laravel Library (API-First REST API)
+### 🟣 Laravel Library (API-First REST API)
 
 API-first full stack application for managing a library system (books, authors, categories), designed with a clear separation between backend and client.
 
 **Features:**
 
-Full CRUD for books, authors, and categories
-RESTful API design (resource-oriented endpoints)
-Strong backend validation (Form Requests)
-API Resources for response transformation
-Authentication with Laravel Sanctum
-Relational database with proper relationships (1-N, N-N)
-Clean separation of concerns (API layer vs client layer)
+- Full CRUD for books, authors, and categories
+- RESTful API design (resource-oriented endpoints)
+- Strong backend validation (Form Requests)
+- API Resources for response transformation
+- Authentication with Laravel Sanctum
+- Relational database with proper relationships (1-N, N-N)
+- Clean separation of concerns (API layer vs client layer)
 
 
 ---
