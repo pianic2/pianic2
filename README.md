@@ -62,4 +62,4 @@ API-first full stack application for managing a library system (books, authors, 
 Grow as a developer by working on real-world projects and contributing to production-level systems.
 
 ## 📫 Contact
-- LinkedIn: INSERISCI_LINK
+- LinkedIn: [Niccolò Piazzi](https://www.linkedin.com/in/niccolo-piazzi)
