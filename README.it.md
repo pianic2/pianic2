@@ -84,7 +84,7 @@ Focus su:
 
 ### Node Todo List
 
-<img max-width="200px" src="images/its-javascript-todolist.jpg" />
+<img width="200px" src="images/its-javascript-todolist.jpg" />
 
 REST API progettata con una struttura backend modulare e un'organizzazione scalabile del progetto.
 
@@ -103,7 +103,7 @@ REST API progettata con una struttura backend modulare e un'organizzazione scala
 
 ### Laravel Todo List
 
-<img max-width="200px" src="images/its-php-todolist.jpg" />
+<img width="200px" src="images/its-php-todolist.jpg" />
 
 Applicazione full stack per la gestione di task sviluppata con Laravel e Blade.
 
@@ -122,7 +122,7 @@ Applicazione full stack per la gestione di task sviluppata con Laravel e Blade.
 
 ### Laravel Library
 
-<img max-width="200px" src="images/its-php-library.jpg" />
+<img width="200px" src="images/its-php-library.jpg" />
 
 Applicazione API-first per la gestione di libri, autori e categorie con modellazione relazionale e autenticazione.
 
