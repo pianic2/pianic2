@@ -137,7 +137,7 @@ Applicazione API-first per la gestione di libri, autori e categorie con modellaz
 
 ### Bash Multi-Channel Alerting System
 
-<img max-width="200px" src="images/its-bash-alerting.jpg" />
+<img max-width="280px" src="images/its-bash-alerting.jpg" />
 
 Sistema di notifiche e alerting multi-canale sviluppato in Bash, progettato per automatizzare l'invio di avvisi attraverso diversi canali di comunicazione.
 
