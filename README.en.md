@@ -129,7 +129,7 @@ API-first application for managing books, authors, and categories with relationa
 
 ### Bash Multi-Channel Alerting System
 
-<img max-width="280px" src="images/its-bash-alerting.jpg" />
+<img width="280px" src="images/its-bash-alerting.jpg" />
 
 Multi-channel notification and alerting system built with Bash, designed to automate alert delivery across different communication channels.
 
