@@ -135,6 +135,21 @@ Applicazione API-first per la gestione di libri, autori e categorie con modellaz
 
 ---
 
+### Bash Multi-Channel Alerting System
+
+<img max-width="200px" src="images/its-bash-alerting.jpg" />
+
+Sistema di notifiche e alerting multi-canale sviluppato in Bash, progettato per automatizzare l'invio di avvisi attraverso diversi canali di comunicazione.
+
+#### Stack
+`Bash` `Linux` `Automation` `Alerting`
+
+<a href="https://github.com/pianic2/its-bash-sistema-notifiche-allerting-multicanale">
+  <img src="https://img.shields.io/badge/Repository-6639b7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
 ## Statistiche GitHub
 
 <div align="center">

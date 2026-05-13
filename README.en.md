@@ -126,6 +126,22 @@ API-first application for managing books, authors, and categories with relationa
 </a>
 
 ---
+
+### Bash Multi-Channel Alerting System
+
+<img max-width="200px" src="images/its-bash-alerting.jpg" />
+
+Multi-channel notification and alerting system built with Bash, designed to automate alert delivery across different communication channels.
+
+#### Stack
+`Bash` `Linux` `Automation` `Alerting`
+
+<a href="https://github.com/pianic2/its-bash-sistema-notifiche-allerting-multicanale">
+  <img src="https://img.shields.io/badge/Repository-6639b7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
