@@ -10,6 +10,12 @@
 
 ---
 
+Language:
+
+[![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=012169)](#) [![Italiano](https://img.shields.io/badge/Lang-Italiano-green?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=008C45)](README.it.md)
+
+---
+
 ## About
 
 Building backend systems, REST APIs, and full stack applications with JavaScript and Python.
