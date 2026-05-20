@@ -10,6 +10,15 @@
 
 ---
 
+<a href="/README.it.md">
+  <img src="https://img.shields.io/badge/🇮🇹%20Italiano-README-009246?style=for-the-badge" />
+</a>
+<a href="/README.md">
+  <img src="https://img.shields.io/badge/🇬🇧%20English-README-012169?style=for-the-badge" />
+</a>
+
+---
+
 ## Chi Sono
 
 Sviluppo sistemi backend, REST API e applicazioni full stack utilizzando JavaScript e Python.
