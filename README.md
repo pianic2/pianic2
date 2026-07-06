@@ -22,6 +22,19 @@ profile_metadata:
 
 ---
 
+## Profile Index
+
+| Signal | Details |
+|---|---|
+| **Target roles** | Junior Full Stack Developer · Junior Backend Developer · Junior Mobile Developer · Software Engineering Intern |
+| **Backend** | Node.js · Express · PHP · Laravel · Python · Django · Java · Spring Boot · REST APIs · SQL |
+| **Frontend & Mobile** | JavaScript · TypeScript · React · React Native · Expo · Expo Router |
+| **IoT & Edge** | ESP32 · ESP32-C3 · ESP-IDF · C firmware · sensors · smart home infrastructure |
+| **DevOps & Tooling** | Docker · Git · GitHub · GitHub Actions · Linux · reproducible local setup |
+| **Project signals** | REST API design · Docker reproducibility · embedded firmware · documented repositories |
+
+---
+
 ## What I Build
 
 I build concrete portfolio projects with a focus on clean structure, reproducibility, and technical clarity:
