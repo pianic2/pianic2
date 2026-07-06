@@ -13,10 +13,10 @@ I prefer backend-first architecture, mobile-first user experiences, scalable mod
 I work mainly on:
 
 - backend systems with Node.js, Laravel, Django, Java, and Spring Boot;
-- mobile and UI projects with React Native, Expo, and TypeScript;
+- web, mobile, and UI projects with JavaScript, React, React Native, Expo, and TypeScript;
 - IoT and edge systems based on ESP32, ESP-IDF, C firmware, and sensor networks;
 - REST APIs with clear data models and reproducible local setup;
-- structured delivery workflows using GitHub, Jira, Confluence, documentation, and AI-assisted engineering.
+- structured delivery workflows using GitHub, Jira, Confluence, documentation, DevOps basics, and AI-assisted engineering.
 
 ---
 
@@ -42,11 +42,15 @@ I work mainly on:
 
 ### Frontend & Mobile
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
+- JavaScript
 - TypeScript
+- React
 - React Native
 - Expo
 - Expo Router
@@ -66,16 +70,29 @@ I work mainly on:
 - Environmental monitoring
 - Event-oriented node architecture
 
+### DevOps & Tooling
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+- Docker
+- Git / GitHub
+- GitHub Actions
+- CI/CD workflows
+- Linux development environments
+- Reproducible local setup
+- Environment configuration
+
 ### Delivery & Governance
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
-- GitHub
 - Jira
 - Confluence
-- CI/CD workflows
 - Technical documentation
 - ADRs and risk notes where useful
 - Sprint-based delivery
@@ -137,6 +154,7 @@ My preferred workflow includes:
 - repository documentation;
 - issue tracking with Jira when the project requires governance;
 - API contracts and reproducible setup;
+- Docker-based local environments where useful;
 - incremental delivery instead of chaotic feature accumulation;
 - AI agents used as engineering accelerators, not as replacements for architecture.
 
@@ -150,7 +168,8 @@ I'm currently focused on:
 
 - HomeEdge AI Platform and smart home edge infrastructure;
 - strengthening backend architecture through real APIs;
-- React Native / Expo mobile development;
+- JavaScript, React, React Native, and Expo development;
+- DevOps fundamentals with Docker, GitHub Actions, and reproducible environments;
 - embedded firmware for ESP32-based nodes;
 - turning school and portfolio projects into clear, documented, reviewable repositories.
 
