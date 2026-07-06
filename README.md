@@ -10,18 +10,15 @@ Backend architecture · Mobile applications · IoT/Edge systems · Structured de
 
 </div>
 
----
-
-## Recruiter Snapshot
-
-| Area | Current focus |
-|---|---|
-| **Role** | Full Stack Developer student at ITS Prodigi |
-| **Backend** | Node.js, Express, PHP, Laravel, Django, Java, Spring Boot, REST APIs |
-| **Frontend & Mobile** | JavaScript, TypeScript, React, React Native, Expo |
-| **IoT & Edge** | ESP32, ESP-IDF, C firmware, sensors, event-oriented nodes |
-| **DevOps & Tooling** | Docker, Git, GitHub, GitHub Actions, Linux, reproducible local setup |
-| **Working style** | Backend-first architecture, scalable modeling, documentation as source of truth |
+<!--
+profile_metadata:
+  role: Full Stack Developer student at ITS Prodigi
+  backend: Node.js, Express, PHP, Laravel, Django, Java, Spring Boot, REST APIs
+  frontend_mobile: JavaScript, TypeScript, React, React Native, Expo
+  iot_edge: ESP32, ESP-IDF, C firmware, sensors, event-oriented nodes
+  devops_tooling: Docker, Git, GitHub, GitHub Actions, Linux, reproducible local setup
+  working_style: Backend-first architecture, scalable modeling, documentation as source of truth
+-->
 
 ---
 
