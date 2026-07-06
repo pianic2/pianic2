@@ -1,8 +1,8 @@
 # Hi, I'm Niccolò Piazzi
 
-I'm a Full Stack Developer in training at ITS Prodigi, focused on backend architecture, mobile applications, IoT/Edge systems, and AI-assisted software delivery.
+I'm a Full Stack Developer in training at ITS Prodigi, focused on backend architecture, mobile applications, IoT/Edge systems, and structured software delivery.
 
-My work is centered on building structured software projects: clear domain models, scalable architectures, documented decisions, testable APIs, and transparent delivery workflows.
+My current portfolio is intentionally focused on concrete projects: ITS backend exercises, a Laravel API, a React Native library track, and a new smart home / edge platform.
 
 I prefer backend-first architecture, mobile-first user experiences, scalable modeling, and documentation that acts as a real source of truth.
 
@@ -12,11 +12,11 @@ I prefer backend-first architecture, mobile-first user experiences, scalable mod
 
 I work mainly on:
 
-- backend systems with Django, Django REST Framework, Java, and Spring Boot;
-- mobile applications with React Native, Expo, and TypeScript;
+- backend systems with Node.js, Laravel, Django, Java, and Spring Boot;
+- mobile and UI projects with React Native, Expo, and TypeScript;
 - IoT and edge systems based on ESP32, ESP-IDF, C firmware, and sensor networks;
-- event-driven architectures for smart environments and operational systems;
-- AI-assisted development workflows for coding, testing, documentation, CI/CD, and delivery governance.
+- REST APIs with clear data models and reproducible local setup;
+- structured delivery workflows using GitHub, Jira, Confluence, documentation, and AI-assisted engineering.
 
 ---
 
@@ -24,21 +24,21 @@ I work mainly on:
 
 ### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-222222?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-- Python
-- Django
-- Django REST Framework
-- Java
-- Spring Boot
+- Node.js / Express
+- PHP / Laravel
+- Python / Django / Django REST Framework
+- Java / Spring Boot
 - REST APIs
-- PostgreSQL
-- SQLite
+- SQL databases
 
 ### Frontend & Mobile
 
@@ -47,11 +47,10 @@ I work mainly on:
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 - TypeScript
-- React
 - React Native
 - Expo
 - Expo Router
-- Component libraries
+- Component APIs
 - Mobile-first UI architecture
 
 ### IoT & Edge
@@ -65,8 +64,7 @@ I work mainly on:
 - Sensor integration
 - OLED interfaces
 - Environmental monitoring
-- Presence detection
-- Event-driven node architecture
+- Event-oriented node architecture
 
 ### Delivery & Governance
 
@@ -78,9 +76,8 @@ I work mainly on:
 - Jira
 - Confluence
 - CI/CD workflows
-- ADRs
-- Risk Assessments
 - Technical documentation
+- ADRs and risk notes where useful
 - Sprint-based delivery
 - AI-assisted software engineering
 
@@ -88,53 +85,53 @@ I work mainly on:
 
 ## Featured Projects
 
-### SmartEdge AI / HomeEdge AI Platform
+### [HomeEdge AI Platform](https://github.com/pianic2/homeedge-ai-platform)
 
-An edge AI and smart home platform based on ESP32 nodes, environmental sensors, presence detection, local event production, backend ingestion, and mobile/cloud monitoring.
+A new smart home and edge platform based on ESP32 nodes, environmental sensors, presence detection, local event production, backend ingestion, and mobile/cloud monitoring.
 
-The project explores a scalable architecture for smart environments where edge devices produce structured events and the backend acts as the central intelligence layer.
+The project is designed around an edge/cloud split: embedded nodes collect local signals, produce structured events, and send them toward backend services and future mobile dashboards.
 
-**Focus areas:** ESP32, ESP-IDF, IoT, Edge AI, Smart Home, event-driven architecture, Kafka-oriented pipelines, mobile monitoring, documentation-first delivery.
-
----
-
-### Restaurant Kitchef Brain
-
-A Spring Boot backend for restaurant kitchen operations, focused on rich domain modeling, kitchen workflows, order state machines, concurrency control, business-day metrics, and operational observability.
-
-The project models real kitchen operations with structured domain logic instead of simple CRUD behavior.
-
-**Focus areas:** Java, Spring Boot, REST APIs, rich domain model, optimistic locking, kitchen board, operational metrics, Postman delivery.
+**Focus areas:** ESP32, ESP-IDF, C firmware, IoT, Smart Home, sensor networks, event-driven architecture, backend ingestion, mobile monitoring.
 
 ---
 
-### CarNet
+### [Node Todo List](https://github.com/pianic2/todo-list-manager-node)
 
-A crowdsensing concept for urban road intelligence, where mobile devices detect and report local road events using privacy-aware, security-aware, and governance-first design.
+An ITS Node.js backend project for managing todo items through a REST API.
 
-The project focuses on feasibility, mobile platform constraints, threat modeling, data minimization, signal validation, and stakeholder-oriented documentation.
+The project focuses on modular backend structure, clean routing, API organization, and deployable service delivery.
 
-**Focus areas:** React Native, Spring Boot, mobile crowdsensing, privacy by design, security by design, STRIDE, LINDDUN, ADRs, risk governance.
-
----
-
-### Personal React Native Component Library
-
-A React Native component library focused on reusable UI primitives, documentation, migration governance, API stability labeling, and Expo/Metro compatibility.
-
-The project is structured around API clarity, consumer-facing documentation, migration safety, and platform compatibility.
-
-**Focus areas:** React Native, Expo, TypeScript, UI primitives, documentation, migration guides, API stability, troubleshooting.
+**Focus areas:** Node.js, Express, REST API, backend structure, deployment.
 
 ---
 
-### AI Social Agent
+### [Laravel Todo List](https://github.com/pianic2/its-php-lavarel-todolist)
 
-A CPU-friendly automation pipeline for producing short-form social content with deterministic workflows, local processing, retry logic, operational safeguards, and Raspberry Pi compatibility.
+An ITS Laravel application for task management, built with PHP, Laravel, MVC structure, and server-rendered views.
 
-The system is designed around repeatability, observability, and controlled automation rather than black-box generation.
+The project focuses on Laravel fundamentals, routing, controllers, Blade templates, persistence, and full stack application flow.
 
-**Focus areas:** Python, FFmpeg, SQLite, local pipelines, automation, Raspberry Pi, AI-assisted workflows.
+**Focus areas:** PHP, Laravel, MVC, Blade, task management, full stack basics.
+
+---
+
+### [ITS Libreria API](https://github.com/pianic2/its-php-libreria)
+
+A Laravel REST API for managing a digital library system with books, authors, categories, authentication, database relationships, and file storage.
+
+The project is API-first and designed to be reproducible locally with Docker and MySQL.
+
+**Focus areas:** Laravel, REST API, MySQL, Docker, Sanctum authentication, relational modeling, backend architecture.
+
+---
+
+### [React Native Piazzi](https://github.com/pianic2/react-native-piazzi)
+
+A React Native / Expo library-oriented project focused on reusable mobile UI work and component-level organization.
+
+This track is connected to my broader work on React Native components, API clarity, Expo compatibility, and mobile-first frontend architecture.
+
+**Focus areas:** React Native, Expo, TypeScript, component organization, mobile UI, reusable frontend primitives.
 
 ---
 
@@ -145,16 +142,15 @@ I care about software that can be understood, maintained, and evolved.
 My preferred workflow includes:
 
 - modeling before implementation;
-- explicit architectural decisions;
-- backlog and sprint planning;
-- issue tracking with Jira;
-- technical documentation with Confluence or repository docs;
-- API contracts and testable delivery;
-- risk assessment before scaling;
-- CI/CD and automation where useful;
+- clear project structure;
+- explicit technical decisions;
+- repository documentation;
+- issue tracking with Jira when the project requires governance;
+- API contracts and reproducible setup;
+- incremental delivery instead of chaotic feature accumulation;
 - AI agents used as engineering accelerators, not as replacements for architecture.
 
-I try to keep projects transparent for stakeholders, teachers, reviewers, and future maintainers.
+I try to keep projects transparent for teachers, reviewers, technical collaborators, and future maintainers.
 
 ---
 
@@ -162,13 +158,11 @@ I try to keep projects transparent for stakeholders, teachers, reviewers, and fu
 
 I'm currently focused on:
 
-- SmartEdge AI and smart home edge infrastructure;
-- scalable backend architectures;
-- React Native / Expo mobile applications;
+- HomeEdge AI Platform and smart home edge infrastructure;
+- strengthening backend architecture through real APIs;
+- React Native / Expo mobile development;
 - embedded firmware for ESP32-based nodes;
-- event-driven systems;
-- AI-assisted coding, testing, documentation, and delivery workflows;
-- building a serious technical portfolio through GitHub, Jira, and Confluence.
+- turning school and portfolio projects into clear, documented, reviewable repositories.
 
 ---
 
