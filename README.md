@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer in training at ITS Prodigi, focused on backend architecture, mobile applications, IoT/Edge systems, and structured software delivery.
 
-My current portfolio is intentionally focused on concrete projects: ITS backend exercises, a Laravel API, a React Native library track, and a new smart home / edge platform.
+My current portfolio is intentionally focused on concrete projects: ITS backend exercises, Laravel applications, and a new smart home / edge platform.
 
 I prefer backend-first architecture, mobile-first user experiences, scalable modeling, and documentation that acts as a real source of truth.
 
@@ -122,16 +122,6 @@ A Laravel REST API for managing a digital library system with books, authors, ca
 The project is API-first and designed to be reproducible locally with Docker and MySQL.
 
 **Focus areas:** Laravel, REST API, MySQL, Docker, Sanctum authentication, relational modeling, backend architecture.
-
----
-
-### [React Native Piazzi](https://github.com/pianic2/react-native-piazzi)
-
-A React Native / Expo library-oriented project focused on reusable mobile UI work and component-level organization.
-
-This track is connected to my broader work on React Native components, API clarity, Expo compatibility, and mobile-first frontend architecture.
-
-**Focus areas:** React Native, Expo, TypeScript, component organization, mobile UI, reusable frontend primitives.
 
 ---
 
