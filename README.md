@@ -142,26 +142,6 @@ The project is API-first and designed to be reproducible locally with Docker and
 
 ---
 
-## Engineering Approach
-
-I care about software that can be understood, maintained, and evolved.
-
-My preferred workflow includes:
-
-- modeling before implementation;
-- clear project structure;
-- explicit technical decisions;
-- repository documentation;
-- issue tracking with Jira when the project requires governance;
-- API contracts and reproducible setup;
-- Docker-based local environments where useful;
-- incremental delivery instead of chaotic feature accumulation;
-- AI agents used as engineering accelerators, not as replacements for architecture.
-
-I try to keep projects transparent for teachers, reviewers, technical collaborators, and future maintainers.
-
----
-
 ## Current Focus
 
 I'm currently focused on:
