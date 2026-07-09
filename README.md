@@ -39,8 +39,6 @@ I build concrete portfolio projects with a focus on clean structure, reproducibi
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 </p>
 
-`Node.js` · `Express` · `PHP` · `Laravel` · `Python` · `Django` · `Java` · `Spring Boot` · `REST APIs` · `SQL`
-
 ### Frontend & Mobile
 
 <p>
@@ -51,16 +49,12 @@ I build concrete portfolio projects with a focus on clean structure, reproducibi
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
 </p>
 
-`JavaScript` · `TypeScript` · `React` · `React Native` · `Expo` · `Expo Router` · `Mobile-first UI`
-
 ### IoT & Edge
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 </p>
-
-`ESP32` · `ESP32-C3` · `ESP-IDF` · `C firmware` · `Sensors` · `OLED interfaces` · `Event-oriented nodes`
 
 ### DevOps & Tooling
 
@@ -73,8 +67,6 @@ I build concrete portfolio projects with a focus on clean structure, reproducibi
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
 </p>
-
-`Docker` · `Git` · `GitHub` · `GitHub Actions` · `Linux` · `CI/CD basics` · `Jira` · `Confluence`
 
 ---
 
