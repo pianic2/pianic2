@@ -5,6 +5,7 @@
 **Full Stack Developer in training**  
 Backend architecture · Mobile applications · IoT/Edge systems · Structured delivery
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF4D8D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pianic2.github.io/its-react-portfolio-web/en)
 [![GitHub](https://img.shields.io/badge/GitHub-pianic2-181717?style=for-the-badge&logo=github)](https://github.com/pianic2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niccolò_Piazzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niccolo-piazzi)
 
