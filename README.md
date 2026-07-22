@@ -73,4 +73,4 @@ I build concrete portfolio projects with a focus on clean structure, reproducibi
 
 ## Useful Links
 
-- 🧩 **LeetCode** — https://leetcode.com/u/pianic2
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="16" alt="LeetCode" /> **LeetCode** — https://leetcode.com/u/pianic2
