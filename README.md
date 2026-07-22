@@ -42,67 +42,21 @@ I build concrete portfolio projects with a focus on clean structure, reproducibi
 
 ### Frontend & Mobile
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-</p>
+<p>...</p>
 
 ### IoT & Edge
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-</p>
+<p>...</p>
 
 ### DevOps & Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
-</p>
+<p>...</p>
 
 ---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/homeedge-ai-platform">HomeEdge AI Platform</a></h3>
-      <p>Smart home and edge platform based on ESP32 nodes, environmental sensors, presence detection, local event production, backend ingestion, and mobile/cloud monitoring.</p>
-      <p><strong>Why it matters:</strong> shows IoT, embedded firmware, event-oriented architecture, and backend/mobile system thinking.</p>
-      <p><code>ESP32</code> <code>ESP-IDF</code> <code>C</code> <code>IoT</code> <code>Smart Home</code> <code>Event-driven</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/todo-list-manager-node">Node Todo List</a></h3>
-      <p>ITS Node.js backend project for managing todo items through a REST API.</p>
-      <p><strong>Why it matters:</strong> demonstrates API routing, modular backend structure, and deployable service organization.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>REST API</code> <code>Backend</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/its-php-lavarel-todolist">Laravel Todo List</a></h3>
-      <p>ITS Laravel application for task management, built with PHP, Laravel, MVC structure, and server-rendered views.</p>
-      <p><strong>Why it matters:</strong> shows Laravel fundamentals, controllers, Blade templates, persistence, and full stack application flow.</p>
-      <p><code>PHP</code> <code>Laravel</code> <code>MVC</code> <code>Blade</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/its-php-libreria">ITS Libreria API</a></h3>
-      <p>Laravel REST API for managing a digital library system with books, authors, categories, authentication, database relationships, and file storage.</p>
-      <p><strong>Why it matters:</strong> demonstrates API-first backend design, Docker reproducibility, MySQL modeling, and Sanctum authentication.</p>
-      <p><code>Laravel</code> <code>REST API</code> <code>MySQL</code> <code>Docker</code> <code>Sanctum</code></p>
-    </td>
-  </tr>
-</table>
+<table>...</table>
 
 ---
 
@@ -117,12 +71,6 @@ I build concrete portfolio projects with a focus on clean structure, reproducibi
 
 ---
 
-## GitHub Activity
+## Useful Links
 
-<div align="center">
-
-![Niccolò's GitHub stats](https://github-readme-stats.vercel.app/api?username=pianic2&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pianic2&layout=compact&theme=transparent)
-
-</div>
+- 🧩 **LeetCode** — https://leetcode.com/u/pianic2
