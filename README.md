@@ -2,115 +2,117 @@
 
 # Niccolò Piazzi
 
-**Full Stack Developer in training**  
-Backend architecture · Mobile applications · IoT/Edge systems · Structured delivery
+**Full-stack developer in training**  
+Backend systems · Web & mobile applications · Developer tooling · Edge/IoT
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF4D8D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pianic2.github.io/its-react-portfolio-web/en)
-[![GitHub](https://img.shields.io/badge/GitHub-pianic2-181717?style=for-the-badge&logo=github)](https://github.com/pianic2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niccolò_Piazzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niccolo-piazzi)
+I build projects with explicit architecture, reproducible environments, automated quality gates, and evidence-based delivery.
+
+[Portfolio](https://pianic2.github.io/its-react-portfolio-web/) ·
+[LinkedIn](https://www.linkedin.com/in/niccolo-piazzi) ·
+[GitHub](https://github.com/pianic2)
 
 </div>
 
 ---
 
-## What I Build
+## What I work on
 
-I build concrete portfolio projects with a focus on clean structure, reproducibility, and technical clarity:
+My main focus is designing and shipping full-stack systems that remain understandable as they grow.
 
-- backend systems with REST APIs and structured data models;
-- web, mobile, and UI projects with JavaScript, React, React Native, Expo, and TypeScript;
-- IoT and edge systems based on ESP32, ESP-IDF, C firmware, and sensor networks;
-- Docker-based local environments and deployable project setups;
-- documented repositories that are easy to review by teachers, recruiters, and technical collaborators.
+I work mostly with **Django, Java/Spring Boot, React, React Native/Expo, PostgreSQL and Docker**, with a strong interest in contract-first APIs, reusable developer tooling, AI-assisted engineering, and edge systems.
+
+I am currently studying Full Stack Development at **ITS Prodigi** while using personal, academic and real-world projects to push beyond isolated exercises into complete, reviewable systems.
 
 ---
 
-## Core Stack
+## Selected work
 
-### Backend
+### [Full-stack Product Template](https://github.com/pianic2/template-fullstack)
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-222222?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-</p>
+An agent-first product baseline with a **Django API, React web client and Expo mobile app** sharing one generated OpenAPI contract.
 
-### Frontend & Mobile
+`Django 5.2` · `React 19` · `Expo 57` · `PostgreSQL` · `OpenAPI` · `Orval` · `Docker`
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-</p>
+Highlights:
+- generated API clients instead of duplicated handwritten contracts;
+- separate browser-session and mobile-token authentication boundaries;
+- reproducible bootstrap, CI, security checks and deployment guidance;
+- repository-local agent workflows with explicit ownership and review rules.
 
-### IoT & Edge
+### Portfolio Platform — [Frontend](https://github.com/pianic2/its-react-portfolio-web) · [Backend](https://github.com/pianic2/personal-django-portfolio-web)
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-</p>
+A bilingual portfolio split into a **React frontend** and a **Django/Wagtail content backend**.
 
-### DevOps & Tooling
+`React` · `TypeScript` · `Django` · `Wagtail` · `PostgreSQL` · `OAuth 2.1` · `MCP`
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
-</p>
+The backend owns editorial content, APIs and a least-privilege MCP content surface; the frontend consumes that content through a typed, tested UI with automated quality and accessibility checks.
 
----
+**Live:** https://pianic2.github.io/its-react-portfolio-web/
 
-## Featured Projects
+### [React Native Components](https://github.com/pianic2/personal-library-react-native-components)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/homeedge-ai-platform">HomeEdge AI Platform</a></h3>
-      <p>Smart home and edge platform based on ESP32 nodes, environmental sensors, presence detection, local event production, backend ingestion, and mobile/cloud monitoring.</p>
-      <p><strong>Why it matters:</strong> shows IoT, embedded firmware, event-oriented architecture, and backend/mobile system thinking.</p>
-      <p><code>ESP32</code> <code>ESP-IDF</code> <code>C</code> <code>IoT</code> <code>Smart Home</code> <code>Event-driven</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/todo-list-manager-node">Node Todo List</a></h3>
-      <p>ITS Node.js backend project for managing todo items through a REST API.</p>
-      <p><strong>Why it matters:</strong> demonstrates API routing, modular backend structure, and deployable service organization.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>REST API</code> <code>Backend</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/its-php-lavarel-todolist">Laravel Todo List</a></h3>
-      <p>ITS Laravel application for task management, built with PHP, Laravel, MVC structure, and server-rendered views.</p>
-      <p><strong>Why it matters:</strong> shows Laravel fundamentals, controllers, Blade templates, persistence, and full stack application flow.</p>
-      <p><code>PHP</code> <code>Laravel</code> <code>MVC</code> <code>Blade</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pianic2/its-php-libreria">ITS Libreria API</a></h3>
-      <p>Laravel REST API for managing a digital library system with books, authors, categories, authentication, database relationships, and file storage.</p>
-      <p><strong>Why it matters:</strong> demonstrates API-first backend design, Docker reproducibility, MySQL modeling, and Sanctum authentication.</p>
-      <p><code>Laravel</code> <code>REST API</code> <code>MySQL</code> <code>Docker</code> <code>Sanctum</code></p>
-    </td>
-  </tr>
-</table>
+A reusable, pre-stable React Native UI package built around components, design tokens and theme primitives.
+
+`React Native` · `Expo` · `TypeScript` · `npm` · `CI`
+
+The package is validated against the Expo 57 / React Native 0.86 line and is designed to be consumed through a governed public API rather than copied between applications.
+
+**Package:** https://www.npmjs.com/package/@personal-library/react-native-components
+
+### [ProofChain](https://github.com/pianic2/its-java-proofchain)
+
+A digital-evidence chain-of-custody backend built as a feature-first modular monolith.
+
+`Java 25` · `Spring Boot 4` · `PostgreSQL` · `Flyway` · `Testcontainers` · `OpenAPI`
+
+It models operators, cases, evidence and append-only custody events, with hash-linked histories, deterministic verification, Docker-based execution and a single Maven quality gate.
+
+### [HomeEdge AI Platform](https://github.com/pianic2/homeedge-ai-platform)
+
+An edge-first smart-home project centered on an **ESP32-C3 node**, sensor integration and explicit hardware/firmware boundaries.
+
+`ESP32-C3` · `ESP-IDF` · `C` · `IoT` · `Edge`
+
+The project is deliberately evidence-driven: implemented capabilities, target architecture and unvalidated ideas are kept distinct instead of being presented as equivalent maturity.
 
 ---
 
-## Current Focus
+## Engineering approach
 
-- HomeEdge AI Platform and smart home edge infrastructure;
-- strengthening backend architecture through real APIs;
-- JavaScript, React, React Native, and Expo development;
-- DevOps fundamentals with Docker, GitHub Actions, and reproducible environments;
-- embedded firmware for ESP32-based nodes;
-- turning school and portfolio projects into clear, documented, reviewable repositories.
+I prefer systems with clear boundaries and verifiable behavior over large amounts of loosely connected code.
+
+- **Model first:** define domain boundaries, data ownership and contracts before adding complexity.
+- **Contract first:** use OpenAPI and generated clients when multiple consumers share the same backend.
+- **Reproducible by default:** pin runtimes, automate setup, and make local/CI behavior converge.
+- **Evidence before claims:** tests, CI, review notes and explicit limitations are part of the delivery.
+- **AI as an engineering tool:** use scoped agents for planning, implementation and review, while keeping human decisions and verification explicit.
+- **Design for change:** favor modular monoliths, reusable packages and clear interfaces before introducing distributed complexity.
+
+---
+
+## Core stack
+
+**Backend**  
+`Python` · `Django` · `Django REST Framework` · `Wagtail` · `Java` · `Spring Boot` · `PHP` · `Laravel` · `Node.js`
+
+**Frontend & mobile**  
+`TypeScript` · `React` · `React Native` · `Expo` · `Vite`
+
+**Data & delivery**  
+`PostgreSQL` · `OpenAPI` · `Orval` · `Docker` · `GitHub Actions` · `Render` · `Linux`
+
+**Embedded & edge**  
+`ESP32` · `ESP-IDF` · `C`
+
+---
+
+## Currently
+
+- refining [RamoVerde](https://github.com/pianic2/work-ramoverde), with emphasis on design quality, simplicity and client value;
+- evolving the full-stack template as a reusable foundation for future products;
+- building React Native / Expo applications around a shared component library and typed backend contracts;
+- experimenting with structured AI-agent workflows that keep context, cost and review boundaries under control.
+
+---
+
+If you want the fastest overview of my work, start with **[template-fullstack](https://github.com/pianic2/template-fullstack)**, **[ProofChain](https://github.com/pianic2/its-java-proofchain)** and the **[live portfolio](https://pianic2.github.io/its-react-portfolio-web/)**.
